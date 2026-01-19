@@ -100,7 +100,7 @@ Each project should declare a lifecycle stage (repo tag or README label):
 
 - Ownership: All code is owned by @seekskyworld.
 - Commercial licensing or authorization is not permitted.
-- Security reporting: see `../SECURITY.md`.
+- Security reporting: see [SECURITY.md](../SECURITY.md).
 
 <a id="zh"></a>
 ## 中文
@@ -199,4 +199,4 @@ Golutra 是一个面向长期演进的工程团队，专注系统的“运行、
 
 - 代码所有权归 @seekskyworld 所有。
 - 不提供商业授权。
-- 安全反馈与响应流程：见 `../SECURITY.md`。
+- 安全反馈与响应流程：见 [SECURITY.md](../SECURITY.md)。
