@@ -9,11 +9,11 @@
 
 > Golutra = A system that runs, flows, and transitions continuously.
 
-Golutra is an engineering-first open-source organization focused on long-term evolution. We care about systems that run reliably, flow smoothly, and transition through verified change.
+Golutra is an engineering-first team focused on long-term evolution. We build systems that run reliably, flow smoothly, and transition through verified change.
 
 ### Mission and Long-term Goals
 
-- Mission: Build reusable, sustainable, and maintainable open-source systems and toolchains with engineering rigor.
+- Mission: Build reusable, sustainable, and maintainable systems and toolchains with engineering rigor.
 - Vision: Enable systems to run continuously and evolve safely, while keeping collaboration and technology flowing.
 - Long-term goals:
   - Deliver a stable, composable set of core components and platform capabilities.
@@ -98,8 +98,9 @@ Each project should declare a lifecycle stage (repo tag or README label):
 
 ### License and Security
 
-- License: AGPL-3.0.
-- Provide SECURITY.md for reporting and response.
+- Ownership: All code is owned by @seekskyworld.
+- Commercial licensing or authorization is not permitted.
+- Security reporting: see `../SECURITY.md`.
 
 <a id="zh"></a>
 ## 中文
@@ -107,16 +108,16 @@ Each project should declare a lifecycle stage (repo tag or README label):
 > Golutra = A system that runs, flows, and transitions continuously.  
 > Golutra = 一个持续运行、持续流动、持续转变的系统。
 
-Golutra 是一个面向长期演进的工程化开源组织。我们关注系统的“运行、流动、转变”：稳定运行的基础能力、持续流动的数据与协作、以及可验证的架构演进。
+Golutra 是一个面向长期演进的工程团队，专注系统的“运行、流动、转变”：稳定运行的基础能力、持续流动的数据与协作、以及可验证的架构演进。
 
 ### 使命与长期目标
 
-- 使命：以工程化方法构建可复用、可持续、可维护的开源系统与工具链。
+- 使命：以工程化方法构建可复用、可持续、可维护的系统与工具链。
 - 愿景：让系统具备持续运行与可演进的能力，让协作与技术流动更自然。
 - 长期目标：
   - 构建一组稳定、可组合的核心组件与平台能力。
   - 形成清晰的技术路线与演进节奏，减少偶发性和不可控变更。
-  - 建立“可参与、可验证、可复盘”的开源协作体系。
+  - 建立“可参与、可验证、可复盘”的协作体系。
 
 ### 编程导向
 
@@ -196,5 +197,6 @@ Golutra 是一个面向长期演进的工程化开源组织。我们关注系统
 
 ### 许可证与安全
 
-- 许可证：AGPL-3.0。
-- 建议提供 SECURITY.md，明确安全问题反馈渠道与响应流程。
+- 代码所有权归 @seekskyworld 所有。
+- 不提供商业授权。
+- 安全反馈与响应流程：见 `../SECURITY.md`。
