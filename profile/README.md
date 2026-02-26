@@ -98,8 +98,7 @@ Each project should declare a lifecycle stage (repo tag or README label):
 
 ### License and Security
 
-- Ownership: All code is owned by @seekskyworld.
-- Commercial use is permitted only with prior authorization.
+- This project follows the [Business Source License 1.1 (BSL 1.1)](https://mariadb.com/bsl11/) open-source license.
 - Security reporting: see [SECURITY.md](../SECURITY.md).
 
 <a id="zh"></a>
@@ -197,6 +196,5 @@ Golutra 是一个面向长期演进的工程团队，专注系统的“运行、
 
 ### 许可证与安全
 
-- 代码所有权归 @seekskyworld 所有。
-- 商业用途须经授权许可后方可使用。
+- 项目遵守 [Business Source License 1.1 (BSL 1.1)](https://mariadb.com/bsl11/) 开源协议。
 - 安全反馈与响应流程：见 [SECURITY.md](../SECURITY.md)。
